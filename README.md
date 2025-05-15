@@ -4,9 +4,9 @@ lookalike of website [MailChimp](https://mailchimp.com/)
 
 ### welcome to this repo,
 
-We a team of 4 members ([Harsh Chaturvedi](https://github.com/harshchaturvedi1), [Bicky Dutta](https://github.com/imbickydutta), [Shahnawaz Malek](https://github.com/Malek1117),[Kumar Ankush](https://github.com/imankush7)) has completed the task in 5 days and Given our best efforts to Construct this project.
+I have completed the task in 7 days and Given my best efforts to Construct this project.
 <br>
-In case of any suggestion and query feel free to connect us  
+In case of any suggestion and query feel free to connect   
 <br>
 Take a look - [Demo](https://mail-chimp-clone.vercel.app/)
 
@@ -74,11 +74,7 @@ the user flow that we tried to maintain is,
 
 > home -> login/signup -> dashboard -> get started to campaign -> create campaign-> Enter email details -> choose templeate -> choose blocks/styles/comments tab -> choose images by dragging -> products name -> send campaign -> track status (through dashboard - part2 in image preveiw aboove ^)
 
-### TEAM MEMBERS AND MESSAGE>
+### MESSAGE>
 
-_we really enjoyed this whole part of developing and haad a learing experience and have given our best efforts to bring the BEST thing as POSSIBLE._
+_I really enjoyed this whole part of developing and had a learning experience and have given my best efforts to bring the BEST thing as POSSIBLE._
 
-[Harsh Chaturvedi](https://github.com/harshchaturvedi1) <br>
-[Bicky Dutta](https://github.com/imbickydutta) <br>
-[Shahnawaz Malek](https://github.com/Malek1117) <br>
-[Kumar Ankush](https://github.com/imankush7)
